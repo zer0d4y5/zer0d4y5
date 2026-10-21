@@ -4,6 +4,7 @@ Vulnerability research and offensive security at [Brickell Technologies](https:/
 
 **Write-ups**
 
+- [CVE-2026-105937: Reading Another Tenant's Messages Through an Apache Pulsar Shadow Topic](https://brickell-tech.com/blog/apache-pulsar-shadow-topic-cross-tenant-cve-2026-105937) (Apache Pulsar, CVSS 4.0 8.7, High)
 - [CVE-2026-112947: Reading Past Vite's server.fs Boundary Through a WebAssembly Error](https://brickell-tech.com/blog/vite-wasm-instance-fs-bypass-cve-2026-112947) (Vite, CVSS 4.0 6.3, Medium)
 - [CVE-2026-110779 and CVE-2026-110780: Two Memory-Safety Bugs in Netatalk's Spotlight RPC](https://brickell-tech.com/blog/netatalk-spotlight-cve-2026-110779-cve-2026-110780) (Netatalk, 4.3 and 5.3 Medium)
 - [CVE-2026-96615: Cross-Namespace Agent Impersonation in NGINX Gateway Fabric](https://brickell-tech.com/blog/nginx-gateway-fabric-agent-impersonation-cve-2026-96615) (CVSS 4.0 7.1, High)
