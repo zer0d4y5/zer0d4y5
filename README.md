@@ -4,6 +4,7 @@ Vulnerability research and offensive security at [Brickell Technologies](https:/
 
 **Write-ups**
 
+- [Ending a URL in /api/signout Made Any SuperTokens Dashboard User an Admin](https://brickell-tech.com/blog/supertokens-dashboard-admins-query-string-bypass) (SuperTokens Node, Python and Go SDKs, CVSS 3.1 8.8, High)
 - [CVE-2026-110720: A ServiceAccount Name Was Enough to Become Consul Admin](https://brickell-tech.com/blog/consul-k8s-cross-namespace-acl-bypass-cve-2026-110720) (HashiCorp consul-k8s, CVSS 3.1 9.9, Critical)
 - [FZ-2026-008: Firezone Gateways Trusted the Proxy IPs Clients Sent Them](https://brickell-tech.com/blog/firezone-gateway-proxy-ip-bypass-fz-2026-008) (Firezone, advisory FZ-2026-008, no CVE)
 - [CVE-2026-114615: Off by One Newline, or How Authlib's JWT Algorithm Confusion Came Back](https://brickell-tech.com/blog/authlib-algorithm-confusion-incomplete-fix-cve-2026-114615) (Authlib, CVSS 3.1 7.4, High)
