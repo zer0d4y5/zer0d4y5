@@ -4,6 +4,7 @@ Vulnerability research and offensive security at [Brickell Technologies](https:/
 
 **Write-ups**
 
+- [CVE-2026-123802: SuperTokens SAML Accepted Assertions Issued to Other Service Providers](https://brickell-tech.com/blog/supertokens-saml-audience-bypass-cve-2026-123802) (SuperTokens core, CVSS 3.1 8.1, High)
 - [CVE-2026-91182: OCM's gRPC Broker Authorized One Cluster and Wrote to Another](https://brickell-tech.com/blog/open-cluster-management-grpc-broker-cve-2026-91182) (Open Cluster Management, CVSS 3.1 3.3, Low)
 - [SuperTokens Dashboard Admins Restriction Bypassed With a Query String](https://brickell-tech.com/blog/supertokens-dashboard-admins-query-string-bypass) (SuperTokens Node, Python and Go SDKs, CVSS 3.1 8.8, High)
 - [CVE-2026-110720: A ServiceAccount Name Was Enough to Become Consul Admin](https://brickell-tech.com/blog/consul-k8s-cross-namespace-acl-bypass-cve-2026-110720) (HashiCorp consul-k8s, CVSS 3.1 9.9, Critical)
