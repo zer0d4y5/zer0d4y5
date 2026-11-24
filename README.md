@@ -4,6 +4,10 @@ Vulnerability research and offensive security at [Brickell Technologies](https:/
 
 **Write-ups**
 
+- [Plus One: Extra Kubernetes Groups in Liqo Peering Certificates (GHSA-rcxf-p9vr-pqpq)](https://brickell-tech.com/blog/liqo-csr-extra-groups-ghsa-rcxf-p9vr-pqpq) (Liqo, CVSS 3.1 9.9, Critical)
+- [Double Booked: Two Pangolin Organizations, One Hostname (GHSA-w92q-9g55-f4r2)](https://brickell-tech.com/blog/pangolin-cross-org-hostname-collision-ghsa-w92q-9g55-f4r2) (Pangolin, CVSS 3.1 8.2, High)
+- [Prefix Not Found: Pre-Auth RCE in Kestra Behind a Context Path (GHSA-f9fr-gp36-h528)](https://brickell-tech.com/blog/kestra-context-path-auth-bypass-ghsa-f9fr-gp36-h528) (Kestra, CVSS 3.1 8.1, High)
+- [One Parser Out of Eleven: Unauthenticated XXE in openHAB's Sonos Binding (GHSA-vcqg-wx36-5j6j)](https://brickell-tech.com/blog/openhab-sonos-binding-xxe-ghsa-vcqg-wx36-5j6j) (openHAB, Medium, not scored)
 - [Bring Your Own State: Immich OAuth Account Takeover (GHSA-7j23-rprg-3g5q)](https://brickell-tech.com/blog/immich-oauth-state-cookie-account-takeover-ghsa-7j23-rprg-3g5q) (Immich, CVSS 3.1 7.5, High)
 - [CVE-2026-123802: SuperTokens SAML Accepted Assertions Issued to Other Service Providers](https://brickell-tech.com/blog/supertokens-saml-audience-bypass-cve-2026-123802) (SuperTokens core, CVSS 3.1 8.1, High)
 - [CVE-2026-91182: OCM's gRPC Broker Authorized One Cluster and Wrote to Another](https://brickell-tech.com/blog/open-cluster-management-grpc-broker-cve-2026-91182) (Open Cluster Management, CVSS 3.1 3.3, Low)
